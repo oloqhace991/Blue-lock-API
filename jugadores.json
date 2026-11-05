@@ -1,0 +1,562 @@
+{
+  "japon": [
+    {
+      "id": "yukimiya",
+      "nombre": "Kenyu Yukimiya",
+      "posiciones": ["EXI", "LTI", "MPO"],
+      "equipos": ["Blue Lock Eleven", "Bastard München", "Japon U20"],
+      "armas": [
+        "Dribbling 1v1 (Sub-20)",
+        "Regate Callejero / Street Dribble",
+        "Tiro Curvo de Espada (Sword Screw)"
+      ],
+      "stats": {
+        "tiro": 86,
+        "pase": 80,
+        "regate": 93,
+        "defensa": 64,
+        "fisico": 82,
+        "vision": 78
+      },
+      "quimica_positiva": ["isagi-yoichi", "reo-mikage"],
+      "quimica_negativa": ["michael-kaiser", "eita-otoya"]
+    },
+    {
+      "id": "rin-itoshi",
+      "nombre": "Rin Itoshi",
+      "posiciones": ["DEL", "MPO"],
+      "equipos": ["Blue Lock Eleven", "Paris X Gen"],
+      "armas": [
+        "Tiro de Precisión Curva",
+        "Control del Campo / Titiritero",
+        "Ego Destructivo (Saikou Flow)"
+      ],
+      "stats": {
+        "tiro": 95,
+        "pase": 89,
+        "regate": 88,
+        "defensa": 75,
+        "fisico": 84,
+        "vision": 96
+      },
+      "quimica_positiva": ["jyubei-aryu", "aoshi-tokimitsu", "eita-otoya"],
+      "quimica_negativa": ["isagi-yoichi", "ryusei-shidou", "sae-itoshi"]
+    },
+    {
+      "id": "ryusei-shidou",
+      "nombre": "Ryusei Shidou",
+      "posiciones": ["DEL"],
+      "equipos": ["Japon U20", "Blue Lock Eleven", "Paris X Gen"],
+      "armas": [
+        "Spatial Awareness en el Área de Penalti",
+        "Volea de Chilena",
+        "Extreme Physicality"
+      ],
+      "stats": {
+        "tiro": 96,
+        "pase": 65,
+        "regate": 82,
+        "defensa": 50,
+        "fisico": 91,
+        "vision": 85
+      },
+      "quimica_positiva": ["sae-itoshi", "charles-chevalier"],
+      "quimica_negativa": ["rin-itoshi", "isagi-yoichi", "igaguri"]
+    },
+    {
+      "id": "seishiro-nagi",
+      "nombre": "Seishiro Nagi",
+      "posiciones": ["DEL", "MPO", "EXD"],
+      "equipos": ["Team V", "Blue Lock Eleven", "Manshine City"],
+      "armas": [
+        "Control de Balón Absoluto (Trapping)",
+        "Tiro Falso / Fake Volley",
+        "Revolución de Creatividad Instantánea"
+      ],
+      "stats": {
+        "tiro": 92,
+        "pase": 81,
+        "regate": 90,
+        "defensa": 58,
+        "fisico": 83,
+        "vision": 82
+      },
+      "quimica_positiva": ["reo-mikage", "yoichi-isagi", "zantetsu-tsurugi"],
+      "quimica_negativa": ["barou-shouei"]
+    },
+    {
+      "id": "eita-otoya",
+      "nombre": "Eita Otoya",
+      "posiciones": ["EXD", "EXI", "DEL"],
+      "equipos": ["Blue Lock Eleven", "FC Barcha"],
+      "armas": [
+        "Infiltración Ninja / Off-the-Ball Stealth",
+        "Aceleración Silenciosa",
+        "Coordinación de Toque Rápido"
+      ],
+      "stats": {
+        "tiro": 83,
+        "pase": 82,
+        "regate": 87,
+        "defensa": 60,
+        "fisico": 79,
+        "vision": 84
+      },
+      "quimica_positiva": ["tabito-karasu", "meguru-bachira", "rin-itoshi"],
+      "quimica_negativa": ["yukimiya"]
+    },
+    {
+      "id": "tabito-karasu",
+      "nombre": "Tabito Karasu",
+      "posiciones": ["MCD", "MC", "MPO"],
+      "equipos": ["Blue Lock Eleven", "Paris X Gen"],
+      "armas": [
+        "Análisis de Punto Débil (Cinta de Brazo)",
+        "Uso del Cuerpo / Agarre de Balón",
+        "Pase Táctico Distribuido"
+      ],
+      "stats": {
+        "tiro": 79,
+        "pase": 91,
+        "regate": 86,
+        "defensa": 84,
+        "fisico": 85,
+        "vision": 92
+      },
+      "quimica_positiva": ["eita-otoya", "jinpachi-ego", "charles-chevalier"],
+      "quimica_negativa": ["yoichi-isagi"]
+    },
+    {
+      "id": "barou-shouei",
+      "nombre": "Shoei Barou",
+      "posiciones": ["DEL"],
+      "equipos": ["Team X", "Blue Lock Eleven", "Ubers"],
+      "armas": [
+        "Ojo Del Depredador",
+        "Tiro de Media Distancia (Top Corner)",
+        "Regate de Choque y Giro (Chopping Dribble)",
+        "Egoísta Desencadenado / King Flow"
+      ],
+      "stats": {
+        "tiro": 96,
+        "pase": 61,
+        "regate": 88,
+        "defensa": 68,
+        "fisico": 92,
+        "vision": 84
+      },
+      "quimica_positiva": ["don-lorenzo", "oliver-aiku", "ikkitoshi-niko"],
+      "quimica_negativa": ["isagi-yoichi", "seishiro-nagi", "michael-kaiser"]
+    },
+    {
+      "id": "oliver-aiku",
+      "nombre": "Oliver Aiku",
+      "posiciones": ["DFC", "LIB"],
+      "equipos": ["Japon U20", "Blue Lock Eleven", "Ubers"],
+      "armas": [
+        "Metavisión Defensiva",
+        "Encabezado De Serpeinte",
+        "Físico de Bloqueo Total"
+      ],
+      "stats": {
+        "tiro": 68,
+        "pase": 82,
+        "regate": 74,
+        "defensa": 96,
+        "fisico": 90,
+        "vision": 93
+      },
+      "quimica_positiva": ["don-lorenzo", "barou-shouei", "ikkitoshi-niko", "sae-itoshi"],
+      "quimica_negativa": ["ryusei-shidou"]
+    },
+    {
+      "id": "ikkitoshi-niko",
+      "nombre": "Ikki Niko",
+      "posiciones": ["DFC", "MCD"],
+      "equipos": ["Team Y", "Blue Lock Eleven", "Ubers"],
+      "armas": [
+        "Metavisión Defensiva",
+        "Torre De Vigilancia",
+        "Pase de Contraataque Directo"
+      ],
+      "stats": {
+        "tiro": 70,
+        "pase": 86,
+        "regate": 76,
+        "defensa": 88,
+        "fisico": 75,
+        "vision": 94
+      },
+      "quimica_positiva": ["barou-shouei", "oliver-aiku", "don-lorenzo"],
+      "quimica_negativa": ["isagi-yoichi"]
+    },
+    {
+      "id": "yo-hiyori",
+      "nombre": "Yo Hiori",
+      "posiciones": ["MPO", "MC", "LTI"],
+      "equipos": ["Blue Lock Eleven", "Bastard München"],
+      "armas": [
+        "Metavisión",
+        "Pase Curvo de Alta Precisión",
+        "Temperatura Bajo Cero (Flow Analítico)"
+      ],
+      "stats": {
+        "tiro": 76,
+        "pase": 97,
+        "regate": 85,
+        "defensa": 72,
+        "fisico": 74,
+        "vision": 97
+      },
+      "quimica_positiva": ["isagi-yoichi", "tabito-karasu", "ranze-kurona"],
+      "quimica_negativa": ["michael-kaiser"]
+    },
+    {
+      "id": "meguru-bachira",
+      "nombre": "Meguru Bachira",
+      "posiciones": ["DEL", "EXD", "EXI", "MPO"],
+      "equipos": ["Team Z", "Blue Lock Eleven", "FC Barcha"],
+      "armas": [
+        "Tijeras con Ruleta",
+        "Imaginación Explosiva",
+        "Estilo Libre de Abeja"
+      ],
+      "stats": {
+        "tiro": 80,
+        "pase": 86,
+        "regate": 91,
+        "defensa": 52,
+        "fisico": 70,
+        "vision": 84
+      },
+      "quimica_positiva": ["isagi-yoichi", "bunny-iglesias", "eita-otoya"],
+      "quimica_negativa": []
+    },
+    {
+      "id": "hyoma-chigiri",
+      "nombre": "Hyoma Chigiri",
+      "posiciones": ["EXI", "LTI"],
+      "equipos": ["Team Z", "Blue Lock Eleven", "Manshine City"],
+      "armas": [
+        "44 a la Izquierda",
+        "Regate a Alta Velocidad",
+        "Velocidad por la Banda"
+      ],
+      "stats": {
+        "tiro": 82,
+        "pase": 76,
+        "regate": 85,
+        "defensa": 64,
+        "fisico": 72,
+        "vision": 80
+      },
+      "quimica_positiva": ["isagi-yoichi", "seishiro-nagi", "reo-mikage", "rensuke-kunigami"],
+      "quimica_negativa": []
+    },
+    {
+      "id": "rensuke-kunigami",
+      "nombre": "Rensuke Kunigami",
+      "posiciones": ["DEL"],
+      "equipos": ["Team Z", "Wild Card", "Bastard München"],
+      "armas": [
+        "Disparo Potente Zurdo",
+        "Físico Ambidiestro (Wild Card)",
+        "Volea de Media Distancia"
+      ],
+      "stats": {
+        "tiro": 89,
+        "pase": 65,
+        "regate": 73,
+        "defensa": 60,
+        "fisico": 92,
+        "vision": 75
+      },
+      "quimica_positiva": ["hyoma-chigiri", "isagi-yoichi"],
+      "quimica_negativa": ["ryusei-shidou"]
+    },
+    {
+      "id": "reo-mikage",
+      "nombre": "Reo Mikage",
+      "posiciones": ["MC", "MPO", "MCD", "DFC"],
+      "equipos": ["Team V", "Blue Lock Eleven", "Manshine City"],
+      "armas": [
+        "Copia del 99%",
+        "Pase Camaleón",
+        "Metavisión"
+      ],
+      "stats": {
+        "tiro": 90,
+        "pase": 90,
+        "regate": 90,
+        "defensa": 90,
+        "fisico": 90,
+        "vision": 90
+      },
+      "quimica_positiva": ["seishiro-nagi", "hyoma-chigiri", "yukimiya"],
+      "quimica_negativa": ["isagi-yoichi"]
+    },
+    {
+      "id": "gin-gagamaru",
+      "nombre": "Gin Gagamaru",
+      "posiciones": ["POR", "DEL"],
+      "equipos": ["Team Z", "Blue Lock Eleven", "Bastard München"],
+      "armas": [
+        "Reflejos Salvajes Instantáneos",
+        "Estirada de Resorte / Salto Acrobático",
+        "Escorpion"
+      ],
+      "stats": {
+        "tiro": 72,
+        "pase": 65,
+        "regate": 68,
+        "defensa": 92,
+        "fisico": 88,
+        "vision": 82
+      },
+      "quimica_positiva": ["isagi-yoichi", "ranze-kurona", "jinpachi-ego"],
+      "quimica_negativa": []
+    },
+    {
+      "id": "jyubei-aryu",
+      "nombre": "Jyubei Aryu",
+      "posiciones": ["DFC"],
+      "equipos": ["Top 3", "Blue Lock Eleven", "Ubers"],
+      "armas": [
+        "Alcance Glamuroso / Juego Aéreo",
+        "Interceptación con Extremidades Largas",
+        "Bloqueo con Salto de Ballete"
+      ],
+      "stats": {
+        "tiro": 74,
+        "pase": 70,
+        "regate": 72,
+        "defensa": 89,
+        "fisico": 88,
+        "vision": 78
+      },
+      "quimica_positiva": ["rin-itoshi", "aoshi-tokimitsu", "oliver-aiku", "don-lorenzo"],
+      "quimica_negativa": []
+    },
+    {
+      "id": "aoshi-tokimitsu",
+      "nombre": "Aoshi Tokimitsu",
+      "posiciones": ["MC", "MCD", "DFC"],
+      "equipos": ["Top 3", "Blue Lock Eleven", "PXI"],
+      "armas": [
+        "Resistencia e Inagotable Estamina",
+        "Físico Inamovible por Ansiedad",
+        "Carga con Centro de Gravedad Bajo"
+      ],
+      "stats": {
+        "tiro": 75,
+        "pase": 72,
+        "regate": 70,
+        "defensa": 85,
+        "fisico": 95,
+        "vision": 74
+      },
+      "quimica_positiva": ["rin-itoshi", "jyubei-aryu", "tabito-karasu"],
+      "quimica_negativa": []
+    },
+    {
+      "id": "ranze-kurona",
+      "nombre": "Ranze Kurona",
+      "posiciones": ["LTD", "CAD", "EXD"],
+      "equipos": ["Blue Lock Eleven", "Bastard München"],
+      "armas": [
+        "Uno-Dos",
+        "Agilidad en Espacios Cortos",
+        "Linea Directa Planetaria"
+      ],
+      "stats": {
+        "tiro": 74,
+        "pase": 86,
+        "regate": 84,
+        "defensa": 73,
+        "fisico": 75,
+        "vision": 82
+      },
+      "quimica_positiva": ["isagi-yoichi", "yo-hiyori", "gin-gagamaru"],
+      "quimica_negativa": ["michael-kaiser"]
+    },
+    {
+      "id": "isagi-yoichi",
+      "nombre": "Isagi Yoichi",
+      "posiciones": ["DEL", "MC"],
+      "equipos": ["Japon U20", "Blue Lock Eleven","Bastard München"],
+      "armas": [
+        "Metavisión",
+        "Two Gun Volley",
+        "Luck",
+        "Rey Demoniaco"
+      ],
+      "stats": {
+        "tiro": 95,
+        "pase": 75,
+        "regate": 87,
+        "defensa": 82,
+        "fisico": 72,
+        "vision": 98
+      },
+      "quimica_positiva": ["yo-hiyori", "ranze-kurona","michael-kaiser","meguru-bachira","seishiro-nagi","rensuke-kunigami","oliver-aiku","sae-itoshi"],
+      "quimica_negativa": ["barou-shouei","reo-mikage","rin-itoshi","alexis-ness"]
+    }
+  ],
+  "new_gen_eleven": [
+    {
+      "id": "sae-itoshi",
+      "nombre": "Sae Itoshi",
+      "posiciones": ["MPO", "MC"],
+      "equipos": ["Real Madrid Youth", "Japon U20"],
+      "armas": [
+        "Perfect Pass",
+        "Metavisión",
+        "Destrucción Elegante",
+        "Tiro de Precisión Curva"
+      ],
+      "stats": {
+        "tiro": 93,
+        "pase": 99,
+        "regate": 95,
+        "defensa": 73,
+        "fisico": 75,
+        "vision": 99
+      },
+      "quimica_positiva": ["ryusei-shidou", "michael-kaiser"],
+      "quimica_negativa": ["rin-itoshi", "yoichi-isagi","bunny-iglesias"]
+    },
+    {
+      "id": "michael-kaiser",
+      "nombre": "Michael Kaiser",
+      "posiciones": ["DEL"],
+      "equipos": ["Bastard München"],
+      "armas": [
+        "Kaiser Impact",
+        "Metavisión",
+        "Off-the-Ball Positioning",
+        "Ojo Del Depredador"
+      ],
+      "stats": {
+        "tiro": 98,
+        "pase": 84,
+        "regate": 86,
+        "defensa": 65,
+        "fisico": 85,
+        "vision": 96
+      },
+      "quimica_positiva": ["alexis-ness", "sae-itoshi"],
+      "quimica_negativa": ["isagi-yoichi", "rin-itoshi", "yukimiya"]
+    },
+    {
+      "id": "don-lorenzo",
+      "nombre": "Don Lorenzo",
+      "posiciones": ["DFC", "MCD"],
+      "equipos": ["Ubers"],
+      "armas": [
+        "Marcaje Asfixiante (Ace Stopper)",
+        "Regate Zombie (Unpredictable Movement)",
+        "Defensa Dorada",
+        "Devorador De Aces"
+      ],
+      "stats": {
+        "tiro": 72,
+        "pase": 85,
+        "regate": 91,
+        "defensa": 99,
+        "fisico": 93,
+        "vision": 90
+      },
+      "quimica_positiva": ["barou-shouei", "oliver-aiku"],
+      "quimica_negativa": ["michael-kaiser"]
+    },
+    {
+      "id": "vivian-hugo",
+      "nombre": "Vivian Hugo",
+      "posiciones": ["MC", "MCD"],
+      "equipos": ["Paris X Gen"],
+      "armas": [
+        "Marcaque Mecanico",
+        "Tiro De Engranaje",
+        "Presión Táctica del Medio Campo",
+        "Destino"
+      ],
+      "stats": {
+        "tiro": 78,
+        "pase": 94,
+        "regate": 88,
+        "defensa": 91,
+        "fisico": 83,
+        "vision": 94
+      },
+      "quimica_positiva": ["julian-loki", "charles-chevalier"],
+      "quimica_negativa": []
+    },
+    {
+      "id": "julian-loki",
+      "nombre": "Julian Loki",
+      "posiciones": ["DEL", "EXD"],
+      "equipos": ["France National Team", "Paris X Gen"],
+      "armas": [
+        "God Speed",
+        "Sprint explosivo a máxima velocidad",
+        "To Slow",
+        "Tiro De Alta Velocidad"
+      ],
+      "stats": {
+        "tiro": 96,
+        "pase": 68,
+        "regate": 85,
+        "defensa": 90,
+        "fisico": 97,
+        "vision": 95
+      },
+      "quimica_positiva": ["charles-chevalier", "vivian-hugo"],
+      "quimica_negativa": []
+    },
+    {
+      "id": "bunny-iglesias",
+      "nombre": "Bunny Iglesias",
+      "posiciones": ["DEL", "SD"],
+      "equipos": ["FC Barcha"],
+      "armas": [
+        "Bunny Jump",
+        "Patada de Tijera",
+        "Target Man",
+        "Asistencia de Segundo Delantero"
+      ],
+      "stats": {
+        "tiro": 92,
+        "pase": 84,
+        "regate": 90,
+        "defensa": 60,
+        "fisico": 93,
+        "vision": 88
+      },
+      "quimica_positiva": ["meguru-bachira", "lavinho"],
+      "quimica_negativa": ["sae-itoshi"]
+    }
+  ],
+  "Extranjeros": [
+    {
+      "id": "charles-chevalier",
+      "nombre": "Charles Chevalier",
+      "posiciones": ["MPO", "MC"],
+      "equipos": ["Paris X Gen"],
+      "armas": [
+        "Pase Impredecible / Contra-Ritmo",
+        "Visión Creativa Salvaje",
+        "Cambio de Juego Directo"
+      ],
+      "stats": {
+        "tiro": 80,
+        "pase": 96,
+        "regate": 90,
+        "defensa": 62,
+        "fisico": 74,
+        "vision": 97
+      },
+      "quimica_positiva": ["ryusei-shidou", "rin-itoshi", "tabito-karasu", "julian-loki", "vivian-hugo"],
+      "quimica_negativa": []
+    }
+  ]
+}
