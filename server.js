@@ -4,7 +4,8 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = 3000;
+// Puerto dinámico para Render, por defecto 3000 si estás en local
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json());
@@ -77,5 +78,5 @@ app.get('/api/quimica', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`⚽ API de Blue Lock corriendo en http://localhost:3000/api/jugadores`);
+  console.log(`⚽ API de Blue Lock corriendo en el puerto ${PORT}`);
 });
