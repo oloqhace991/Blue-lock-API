@@ -4,11 +4,15 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
+
 // Puerto dinámico para Render, por defecto 3000 si estás en local
 const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json());
+
+// Esto hace que la carpeta 'img' sea accesible públicamente desde la web
+app.use('/img', express.static('img'));
 
 // Leer el JSON agrupado
 function obtenerCategorias() {
